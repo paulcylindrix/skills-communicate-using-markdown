@@ -3,3 +3,5 @@
 ###### Header 6
 
 Testing some Header Types
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
